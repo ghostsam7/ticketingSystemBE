@@ -13,3 +13,4 @@ gunicorn
 psycopg2
 whitenoise==2.0.6
 wsgiref
+django-cors-headers==1.3.1
